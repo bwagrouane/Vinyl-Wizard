@@ -1,0 +1,259 @@
+body{
+
+    background-color: #111;
+    margin: 0;
+
+}
+
+
+@font-face {
+    font-family: "Minecraft";
+    src: url("/assets/MinecraftRegular-Bmg3.otf");
+}
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+#textheadingblock{
+
+    padding-top: 33vh;
+    position: relative;
+
+}
+#sitetitle{
+    font-size:500%;
+    margin-top: 0px;
+    
+
+
+
+}
+
+#othertitle{
+
+    padding-top: 2vh;
+    padding-bottom: 18vh;
+
+}
+h1{
+    font-family:   "San Francisco", -apple-system, BlinkMacSystemFont, Verdana, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: -10px;
+    
+
+}
+
+p{
+
+    
+    font-family:"San Francisco", -apple-system, BlinkMacSystemFont, Verdana, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+
+
+
+
+}
+
+h3{
+
+    
+    font-family:"San Francisco", -apple-system, BlinkMacSystemFont, Verdana, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    
+
+    
+
+
+    
+}
+
+#sitetitle2{
+
+
+    text-align: left;
+    margin-left:  10dvh;
+    line-height: 10dvh;
+    margin-top: 0;
+    font-size: 150%;
+    
+
+}
+
+a, a:active, a:hover {
+
+    text-decoration: none;
+}
+
+
+#upperbanner{
+    display: flex;
+    position: sticky;
+    background-color: #222;
+    height: 10dvh;
+    top: 0;
+    box-shadow: 5px 5px 5px;
+    
+    
+}
+#albuminputbox{
+
+    text-align: center;
+
+    
+
+
+}
+
+.albumreco{
+
+
+    
+    text-align: center;
+
+    margin-right: 10dvh;
+    margin-left: 10dvh;
+    max-width: 333px;
+   
+}
+
+.albumart{
+
+    width: 333px;
+    height: 333px;
+    box-shadow: 0 0 15px 10px black;
+    border-radius: 10px;
+
+
+}
+
+
+
+
+
+#inputty{
+    
+    border-radius: 30px;
+    width: 60vh;
+    height: 5vh;
+    font-family: Verdana, "San Francisco",  -apple-system, BlinkMacSystemFont,  sans-serif;
+    color: white;
+    padding-left: 3%;
+    background-color: #222;
+    border-color: #222;
+    box-shadow: 5px 5px 5px black;
+    
+    
+}
+
+#inputty:focus{
+
+
+border-color: grey;
+
+}
+
+input:focus{
+
+    outline: none;
+    
+
+}
+
+
+@keyframes splashbounce {
+    from {
+        transform: rotate(28deg) scale(1.05);
+    }
+    to {
+        transform: rotate(28deg) scale(1);
+    }
+}
+#splash{
+    font-family: "Minecraft" , "San Francisco", Verdana, sans-serif;
+    margin-top: 70px;
+    margin-bottom: -20px; 
+
+    width: 65dvh;
+    max-height: 100dvh;
+    color: #FFFF00;
+    position: absolute;
+    animation: infinite  linear 0.25s splashbounce;
+    animation-direction: alternate-reverse;
+    transform-origin: center;
+    right: 29dvh;
+    top:26dvh;
+    font-size: 14px;
+    
+
+
+}
+.desc{
+
+
+
+    color: #777;
+
+
+}
+
+.threestack{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20dvh;
+
+
+
+}
+
+#githubicon{
+
+
+
+
+    margin-left: 109dvh;
+    margin-top: 3dvh;
+
+    width: 35px;
+    height: 35px;
+    
+    border-radius: 19px;
+
+
+
+
+
+}
+
+.sociallink{
+
+    width: 35px;
+    height: 35px;
+
+}
+
+#linkedinicon{
+
+
+ margin-left: 115dvh;
+    margin-top: 3dvh;
+
+    width: 33px;
+    height: 33px;
+    
+    border-radius: 3px;
+
+
+}
+#inputFail{
+
+
+    color: crimson;
+
+
+}
