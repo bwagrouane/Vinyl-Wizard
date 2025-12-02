@@ -10,7 +10,7 @@ Also my homepage generates a random kanye quote in the format of minecrafts spla
 
 ## Demo
 
-Ill put a link here when i get it up and running ->
+heres the live site: https://bwagrouane.github.io/Vinyl-Wizard
 
 
 ## Credits 
