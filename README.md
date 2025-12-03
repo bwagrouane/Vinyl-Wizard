@@ -12,6 +12,9 @@ Also my homepage generates a random kanye quote in the format of minecrafts spla
 
 heres the live site: https://bwagrouane.github.io/Vinyl-Wizard
 
+![Image](https://github.com/user-attachments/assets/af4676a9-02ef-43fe-982c-bd144fa74cec)
+
+![Image](https://github.com/user-attachments/assets/d3bf9793-3300-4138-bf56-9d7ed0a085a7)
 
 ## Credits 
 Made By Bilal Agrouane
